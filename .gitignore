@@ -1,0 +1,32 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment
+venv/
+
+# Ignore the Django settings file
+settings.py
+
+# Ignore the database file
+db.sqlite3
+
+# Ignore static files
+static/
+
+# Ignore media files
+media/
+
+# Ignore log files
+*.log
+
+# Ignore cache files
+__pycache__/
+
+# Ignore environment-specific files
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore any other files or directories you want to exclude
